@@ -9,6 +9,7 @@ Problem Statement: **Climate Change**\
 1. [Short Description](#short-description)
 2. [Pitch Video](#pitch-video)
 3. [Architecture of Solution](#architecture-of-solution)
+
 Weather data: https://data.gov.sg/dataset/realtime-weather-readings
 Weather forecast: https://data.gov.sg/dataset/weather-forecast
 Algorithm:
