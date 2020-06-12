@@ -16,13 +16,13 @@ Problem Statement: **Climate Change**\
 8. [Built With](#built-with)
 
 ## Short Description
-
+We are not familiar with the full system of how SCDF handles training and operation safety 
 
 ## Pitch Video
 
 ## Architecture of Solution
 
-## Detailed Solution
+## [Detailed Solution](DESCRIPTION.md)
 
 ## Getting Started (Installation)
 
