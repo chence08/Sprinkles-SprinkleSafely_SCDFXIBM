@@ -22,7 +22,9 @@ We are not familiar with the full system of how SCDF handles training and operat
 
 ## Architecture of Solution
 Weather data: https://data.gov.sg/dataset/realtime-weather-readings
+
 Weather forecast: https://data.gov.sg/dataset/weather-forecast
+
 Algorithm:
 Collect real-time weather data with training.
 Collect real-time data of trainee’s vitals during training. (Include parameters such as initial hydration, heartbeat, uninterrupted rest time)
