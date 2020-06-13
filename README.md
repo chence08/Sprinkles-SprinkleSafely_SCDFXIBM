@@ -19,6 +19,14 @@ Problem Statement: **Climate Change**\
 We are not familiar with the full system of how SCDF handles training and operation safety. In the light of climate change, we have decided to tackle the problem of the impact of climate on physical condition, in order to address the health of First Responders, for example higher temperatures in the surrounding environment. Vital signs of the trainees will also be taken and used to predict danger signs. 
 
 ## Pitch Video
+Video: (Marcus put here when its done)
+
+Description:
+We introduce the environmental factors which affect one's body vitals and the possible health risks associated with these environmental factors.
+
+We show demonstrate how our solution, the fitbit device, allows one to detect the changes in external environment temperature, as well as one's heart rate. The information provided to the fitbit device will remind the trainee with notifications such as "Reduce Training Intensity, High Heart Rate" when necessary, to ensure the safety and health of the trainee.
+
+Next, we demonstrate how using our solution allows one to monitor their body's vitals and their external environment to ensure that training is conducted safely.
 
 ## Architecture of Solution
 Weather data: https://data.gov.sg/dataset/realtime-weather-readings
