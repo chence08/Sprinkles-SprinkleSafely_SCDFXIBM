@@ -28,12 +28,12 @@ for i in range(1, len(data)):
     SN1, minutes1, temperature1, humidity1, wd1, ws1 = current_weather
     current_feel = feelslike(temperature1, humidity1, ws1)
     if int(minutes1) in rest_time:
-        newHeartRate = list(map(lambda x: x - random.randint(5, 7), previous_heartRate))
+        newHeartRate = list(map(lambda x: x - random.randint(10, 15), previous_heartRate))
     else:
         if current_feel > previous_feel:
-            newHeartRate = list(map(lambda x: x + random.randint(-1, 12), previous_heartRate))
+            newHeartRate = list(map(lambda x: x + random.randint(3, 10), previous_heartRate))
         else:
-            newHeartRate = list(map(lambda x: x + random.randint(-1, 7), previous_heartRate))
+            newHeartRate = list(map(lambda x: x + random.randint(-1, 5), previous_heartRate))
 
     row_list.append(newHeartRate)
 
