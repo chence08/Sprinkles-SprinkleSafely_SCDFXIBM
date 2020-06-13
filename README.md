@@ -16,7 +16,7 @@ Problem Statement: **Climate Change**\
 8. [Built With](#built-with)
 
 ## Short Description
-We are not familiar with the full system of how SCDF handles training and operation safety 
+We are not familiar with the full system of how SCDF handles training and operation safety. In the light of climate change, we have decided to tackle the problem of the impact of climate on physical condition, in order to address the health of First Responders, for example higher temperatures in the surrounding environment. Vital signs of the trainees will also be taken and used to predict danger signs. 
 
 ## Pitch Video
 
