@@ -27,14 +27,11 @@ We would like to propose a proactive approach that seeks to minimise the guesswo
 
 
 ## Pitch Video
-Video: (Marcus put here when its done)
+Video: https://youtu.be/8mT_vg704_U
 
 Description:
-We introduce the environmental factors which affect one's body vitals and the possible health risks associated with these environmental factors.
+Team Sprinkles has innovated a solution that we envision can be integrated into Fitbit as well as weather monitoring devices. We intend to use an algorithm that applies the correlation between environmental variables and body vital signs to the data collected. Any data collected that does not follow the correct trend that is supposed to be observed can be concluded as potential risks of overexertion in training during changing weather conditions. The Fitbit will detect these dangerous readings and beep, sending voice feedback of "Reduce training intensity" if it is deemed too high by our algorithm.
 
-We show demonstrate how our solution, the fitbit device, allows one to detect the changes in external environment temperature, as well as one's heart rate. The information provided to the fitbit device will remind the trainee with notifications such as "Reduce Training Intensity, High Heart Rate" when necessary, to ensure the safety and health of the trainee.
-
-Next, we demonstrate how using our solution allows one to monitor their body's vitals and their external environment to ensure that training is conducted safely.
 
 ## Architecture of Solution
 Weather data: https://data.gov.sg/dataset/realtime-weather-readings
