@@ -62,12 +62,13 @@ Frontend: If the system proves sound and reliable, any officer can interact with
 A sample data set of both **weather** and **trainee heart rate** data taken in sync using *5 minute intervals* in a *2 hour physical training session*.
 
 <img src="./dataview-vis-weather.png">
-Figure 1: Temperature, relative humidity and wind speed recorded from Kestrel WBGT\
+Figure 1: Temperature, relative humidity and wind speed recorded from Kestrel WBGT
 
 <img src="./dataview-vis.png">
-Figure 2: A fraction of trainees' heart rate over time, ***notice Trainee 20's heart rate***. You can see the trainees' heart rate decrease during the intermittent 5 minute rests.\
+Figure 2: A fraction of trainees' heart rate over time, ***notice Trainee 20's heart rate***. You can see the trainees' heart rate decrease during the intermittent 5 minute rests.
+
+<br>
 At the end of the training, the system would alert the commander to check on Trainee's 20 status as he has a sustained elevated heart rate even during periods of rest that is symptomatic of heat injury.\
-\
 This is something that human commanders will never be able to tell, especially when handling a large group of trainees and if trainee 20 was afraid of speaking up. In the future, the commander will learn to pay special care to trainee 20, thereby preventing a needless heat injury from occurring that would sabotage operational confidence and efficiency. The added benefit amassing fitness data is for commanders to accurately gauge the fitness levels of every individuals, novel training plans can be adopted by having personalised data. Once there is enough data to make the AI reliable (small margin of error), future commanders can confidently design training plans based on the current personalised data of their platoons instead of playing by ear.
 
 ## Built with
