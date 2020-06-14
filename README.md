@@ -76,7 +76,7 @@ This is something that human commanders will never be able to tell, especially w
 
 ## Built with
 * IBM Cloudant - To host all the data streams and administrative tools for the user to access the live status
-* IBM IBM Watson Studio (Data Refinery, Auto AI)
+* IBM Watson Studio (Data Refinery, Auto AI)
 * IBM Watson Assistant - Voice-enabled chatbot frontend
 
 ## Authors
