@@ -47,3 +47,4 @@ The ability for trainees to view their own heart rates can be decided by the com
 ## IBM Chatbot (hands free mode)
 
 Possible commands: "Give me status update on Trainee 76."
+This would be a future improvement; the first prototype will only have the database storage function. As detailed in the video pitch, this will be envisioned to be one of the future functions. The database can hence be accessed after linking to the devices.
